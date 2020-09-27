@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62ddb0e90349ab74c9e6829f3e91c611
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - p1Wins: {instanceID: 0}
+  - p2Wins: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
